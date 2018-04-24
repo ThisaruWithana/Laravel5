@@ -1,2 +1,9 @@
-# Laravel5
-Laravel 5.5 with AdminLTE , Login, Menu management, User &amp; Employee Management
+## import the "backend.sql"
+
+## set-up .env file to your database configuration
+
+## do a "composer update"
+
+## run the "php artisan serve"
+
+## user name : super.admin | password : 123456
